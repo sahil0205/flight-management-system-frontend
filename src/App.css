@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-color{
+  background-color: rgb(153, 125, 194);
+}
+
+.home-bg{
+  background-color: whitesmoke;
+}
+
+.footer{
+  margin-top: 0.7rem;
+  padding: 0.7rem;
+  background-color: rgb(235, 195, 64);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.intro-para{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
